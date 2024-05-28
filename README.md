@@ -1,2 +1,2 @@
-# AkcigerKanseri
+# Akciğer Kanseri
 Akciğer Kanseri Teşhisi
